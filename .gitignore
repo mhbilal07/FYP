@@ -8,4 +8,5 @@ build/
 coverage/
 package-lock.json
 pnpm-lock.yaml
+README.md
 *.log
